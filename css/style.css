@@ -10,9 +10,9 @@
 .btn1{
     text-decoration: none;
     font-size: 25px;
-    color: #e5e81f;
+    color: #ffffff;
     padding: 5px 15px;
-    border: 3px solid #eeff02;
+    border: 3px solid #f7f7f7;
     position: relative;
 }
 .btn1::before,
@@ -63,11 +63,12 @@
 .card1:hover .card-image{
     transform: scale(1.15);
 }
-.card-title1{
+/*.card-title1{
     position: absolute;
     left: 15px;
+    color: #ffffff;
     bottom: 15px;
     font-size: 20px;
-    text-shadow: 0 0 1px rgba(0, 0, 0, .5);
-}
+    text-shadow: 0 0 1px rgba(0, 0, 0, 0.5);
+}*/
 
