@@ -94,3 +94,17 @@
         object-position: 50% 50%;
     }
   }
+
+  @media screen and (max-width: 400px) {
+    .card1 {
+        width: 100%;
+    }
+    .card-image{
+        max-width: 100%;
+        min-height: 100%;
+        width: auto;
+        height: auto;
+        object-fit: cover;
+        object-position: 50% 50%;
+    }
+  }
