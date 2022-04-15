@@ -7,6 +7,11 @@
 .page{
     background: rgb(51, 48, 48);
 }
+.btn:hover{
+    color: yellow;
+    transition: 0.5s;
+}
+
 .btn1{
     text-decoration: none;
     font-size: 25px;
